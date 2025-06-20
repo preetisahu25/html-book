@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML book</title>
+</head>
+<body>
+    <h1>About html</h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quo quidem dolorum error at dolor magni, recusandae laborum beatae quisquam. Quis illum vitae eius recusandae consequuntur, quibusdam officiis fuga error! Recusandae vero soluta voluptate voluptas?</p>
+    <hr>
+    
+    <span>Hey</span><br><span>Preeti</span>
+</body>
+</html>
